@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dicoding Submission</string>
+    <string name="carName">Car Name</string>
+    <string name="carDescribe">Car Describe</string>
+</resources>
